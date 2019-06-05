@@ -4,4 +4,5 @@
 
 def roll
     puts "#{rand(6)}"
+    rand
 end
